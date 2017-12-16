@@ -13,9 +13,14 @@ Problems:
 * SortedInsertPosition
 * SwapListNodePairs
 
-<!--
+
 # Assignment 3
--->
-<!--
+
 ## GIF Walkthrough
--->
+<img src='https://i.imgur.com/gH87irg.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+
+Problems:
+* KthSmallestElementTree
+* BinaryTreeFromInorderPostorder
+* MagicianAndChocolates
+* DistinctNumbersWindows
