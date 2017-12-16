@@ -16,7 +16,7 @@ public class SolutionMaxDepthBinaryTree {
 	    return max;
 	}
 	
-	// left, root, right
+	// root, left, right
 	public void preOrderTraversal(TreeNode a, int count) {
         if (a != null) {
             count++;
